@@ -1,0 +1,189 @@
+# Innovating for Humanity: Bridging Barriers, Fighting Digital Crime and Building a Better Future
+
+Technology can empower legal systems and improve communication, but in this age of digital currencies, it can also be exploited by criminal minds
+
+Innovation has always been the engine of humanity’s greatest advances. In our era – marked by rapid technological transformation, mounting social challenges and global interconnectedness – innovation is more urgent and meaningful than ever.
+
+Today, it is not just about inventing new tools, but about reshaping society for justice, accessibility and resilience. Across universities, research centres and the digital frontier, pioneering minds are harnessing technology and collaborating to solve some of humanity’s most pressing challenges. From fighting crypto crime to shielding society from digital scams and championing the power of open source, these innovators share the common purpose of using ingenuity as a force for good, to empower people and for building bridges towards a brighter future.
+
+To this end, at City University of Hong Kong (CityUHK), a group of dedicated professors are tackling society’s issues head-on. Utilising the latest in cutting-edge research and technology, they have been working hard to pave the way for a future that is more secured, just and equitable.
+
+**Outpacing the Dark Side: Innovating to Combat Crimes**  
+While technology can empower our legal systems, it can also be exploited by criminal minds. Nowhere is this more evident than in the world of digital crime. Cryptocurrencies, with decentralised, borderless transactions, have brought financial innovation – but also new forms of criminal activity that challenge traditional policing.
+
+“As such, prevention is the best cure,” asserts Assistant Professor Eray Arda AKARTUNA from the Department of Social and Behavioural Sciences (SS). The stakes are high: as digital assets proliferate, so do scams, fraud and sophisticated criminal networks.
+
+Professor Matthew MANNING, Head of SS, outlines the challenge: “Cryptoassets operate on decentralised blockchains, making it incredibly difficult to trace ownership or link transactions to specific individuals.”
+
+  
+
+***We can train neural networks to identify suspicious transaction patterns***  
+  
+Professor Eray Arda Akartuna
+
+In this high-stakes arena, artificial intelligence (AI) is a powerful ally. “We can train neural networks to identify suspicious transaction patterns,” Akartuna reveals. Advanced AI systems can now detect intricate criminal schemes in real time, flagging potential fraud – such as romance scams – before it is too late.
+
+Blockchain analytics platforms are also transforming investigations. Companies like Elliptic have developed sophisticated tools to cluster wallet addresses, track transaction histories and link pseudonymous accounts to real-world entities. With these innovations, law enforcement agencies have unprecedented capabilities to combat crime across borders. However, technology is only part of the picture.
+
+As Manning notes, “Many crypto-related crimes rely on exploiting individuals’ lack of knowledge.”
+
+Comprehensive education programmes now arm the public with crucial digital safety skills. From secure wallet storage and two-factor authentication to recognising scams and the importance of regulated exchanges, these initiatives help people protect themselves.
+
+Solving crypto crime requires more than national action. “Law enforcement agencies must develop unified frameworks for investigating these crimes,” Manning stresses. International data-sharing, trusted communication and standardised procedures now help authorities respond rapidly and effectively, wherever crimes occur.
+
+  
+
+***Many crypto-related crimes rely on exploiting individuals’ lack of knowledge***  
+  
+Professor Matthew Manning
+
+“Developing standardised investigation techniques ensures that different jurisdictions can work together more effectively,” Manning explains. It is no wonder now that police forces are investing in digital literacy and advanced training, from blockchain basics to digital forensics – equipping officers to stay ahead of increasingly sophisticated criminals.
+
+Regulation is evolving, too. Central Bank Digital Currencies (CBDCs) promise safer, more transparent alternatives to private cryptocurrencies. “We need to understand these risks during the development phase,” Akartuna points out. Meanwhile, the research community is embracing open source collaboration, sharing datasets and tools to accelerate the fight against digital crime.
+
+  
+
+***Scams have become a pressing and pervasive threat to society***  
+  
+Professor Xiaofan Liu
+
+“By combining technological innovation, public education, international cooperation and adaptive regulatory frameworks, we can make crypto crimes increasingly difficult and less rewarding for potential criminals,” Manning asserts. Looking forward, the message from these digital guardians is clear: innovation – rooted in collaboration and education – is our most powerful weapon in safeguarding the digital world.
+
+Indeed, Manning and Akartuna are not alone in their mission. Others are working hard to fight digital crime, too.
+
+As the digital revolution opens new frontiers, scams today cost the global economy an estimated 1 per cent of GDP each year, with both financial and social tolls, explains Professor Xiaofan LIU from the Department of Media and Communication (COM). As this threat grows, he is excited by the fact the researchers are more resolved to find solutions. At CityUHK, Liu is now at the forefront with his project, “Pioneering Technology, Linking the World.” The initiative uses advanced AI and large language models to analyse and disrupt telecom scams.
+
+“Scams have become a pressing and pervasive threat to society,” Liu acknowledges, emphasising the urgent need for collective action. By collecting and analysing user discussions on social media – not just in Hong Kong, but expanding to Southeast Asia and beyond – Liu’s team identifies new scam types and issues early alerts.
+
+“Large language models suddenly became able to understand almost everything,” Liu notes, highlighting how fast AI is transforming the fight against scams.
+
+What sets Liu’s project apart is its holistic strategy. It is about building communities of resistance. Daily intelligence reports go to police and financial institutions, while forums and media outreach engage the public. “We want to see a coordinated effort from society to tackle the scam problem,” Liu emphasises.
+
+Going further, the project which is a collaboration with and sponsored by China Unicom, is exploring AI that proactively engages both potential victims and scammers, offering new channels for prevention.
+
+“We plan to use large language models not only to passively analyse collected data but also to proactively reach out,” Liu reveals. The vision is bold: to transform the challenge of scams into an opportunity for innovation, collaboration and social impact. “This topic will be my focus for at least the next five years,” Liu says, underscoring his commitment to building a safer digital world.
+
+By acting as a bridge between technology, law enforcement, financial institutions and the community, Liu and his team show how innovation can serve humanity, turning adversity into progress.
+
+**The Open Source Revolution**  
+While proprietary technology has powered much of the digital age, a new paradigm is also gaining ground—one that champions openness, collaboration and the collective good. Open source models like DeepSeek and open source AI are at the forefront, offering new ways to tackle society’s biggest challenges.
+
+Professor Yanto CHANDRA, Associate Professor in the Department of Public and International Affairs (PIA), explains the unique power of these platforms: “What they do is very clever,” he says, noting how companies like DeepSeek balance proprietary and open source models. “They can sell to corporate paying users while keeping some parts open for public benefit.” Historically, open source principles have driven progress.
+
+“The beauty of the open source model is that the person who invents something will not keep the economic benefits to oneself,” Chandra points out. “The aim is to benefit society at large, making innovations accessible to everybody.”
+
+Especially exciting are next-generation AI models like Llama 3, which move beyond generating text to taking action on behalf of users. “It can engage in action,” Chandra explains. “For example, it might shortlist interview contacts, send emails or even make phone calls on your behalf, knowing your preferences.”
+
+For social enterprises and NGOs, these technologies offer game-changing opportunities.
+
+“AI can help these sectors by providing new ideas, speeding up information synthesis and designing interventions for disadvantaged groups,” Chandra notes.
+
+Yet there are obstacles. Expertise and financial sustainability are significant concerns, especially when innovation is given away for free. “You need somebody who can work with and fine-tune these models,” Chandra acknowledges. “There’s also the question of how to sustain financially when you’re giving innovations away for free.” And with great power comes great responsibility. “Technology can be an enabler, but it can also be a boomerang for humanity,” Chandra warns. “That’s where governance and guardrails become crucial.”
+
+As platforms like DeepSeek and open source AI evolve, they are redefining what it means to innovate in the public interest. By embracing transparency, shared knowledge, and collective problem-solving, open source technology is paving the way for a more equitable, resilient and advanced future. The message is clear: innovation, when guided by openness and social responsibility, has the power to transform our world.
+
+**Innovation as Our Shared Human Project**  
+From the frontlines of digital crime fighting, AI-powered scam detection to the open source revolution, one thread unites these stories: innovation as a force to advance humanity and our common future.
+
+True innovation is not just about harnessing technology for its own sake. It is about breaking down barriers, empowering individuals, and forging connections across disciplines and borders. It is about using our collective ingenuity to create a world that is not only smarter and more efficient, but also more just, inclusive and humane.
+
+As Professor Liu emphasises, there is a collective responsibility in this endeavour, urging, “We want to see a coordinated effort from society to tackle the scam problem.” Meanwhile, Professor Akartuna asserts, “Prevention is the best cure,” highlighting the proactive measures necessary to safeguard society against emerging threats.
+
+These insights underscore that creating a brighter and more equitable future is a shared responsibility. By harnessing innovation and fostering collaboration across various sectors, the future belongs to those who innovate not just for profit, but for people. Educators, technologists, policymakers, and citizens can work together to ensure that innovation continues to serve as the engine of progress, equity, and hope for generations to come.
+
+  
+
+***The beauty of the open source model is that the person who invents something will not keep the economic benefits to oneself***  
+  
+Professor Yanto Chandra
+
+# Social Media: Friend or Foe to Gender Equality in Academia?
+
+Although women are a growing presence, they still endure systemic obstacles such as bias or negative feedback that make them wary of promoting themselves on social media
+
+Can social media help close the gender gap in academia, or does it simply reinforce existing inequalities?
+
+A recent study led by Professor Xiaohui WANG from City University of Hong Kong’s (CityUHK) Department of Media and Communication (COM) explored this question, focusing on the persistent “Matilda effect” – where female scholars’ contributions are undervalued – and how this plays out in both traditional academic publishing and social media.
+
+Analysing more than 10,000 articles published in top communication journals between 2012 and 2022, the research team used data from OpenAlex, Altmetric and Twitter to uncover gendered patterns in scholarly recognition. The findings reveal both progress and ongoing disparities, suggesting that while the academic world is changing, some barriers remain firmly in place.
+
+**The Findings: Progress, But Not Parity**  
+There is no doubt that women are making strides in communication studies. Over the past decade, the proportion of female first authors has risen from 45.6 per cent to 58 per cent, signalling greater representation in the field. However, representation alone is not enough to ensure equality. Despite their growing presence, women still face systemic disadvantages. Male scholars publish more frequently, achieve greater international mobility and receive significantly more attention online. Metrics like Altmetric scores and Twitter engagement consistently favour men, highlighting the enduring Matilda effect.
+
+**Social Media: A Double-Edged Sword**  
+Social media, often seen as a tool for democratising academia, has not lived up to its promise. While maintaining a strong online presence generally boosts citation counts, this benefit is disproportionately enjoyed by men. The study found that male scholars see significant increases in visibility and citations tied to Twitter activity, while the same is not true for women.
+
+This disparity stems from several factors. Women, wary of bias or negative feedback, may be less likely to self-promote on social media. Meanwhile, men often benefit from larger, more influential professional networks that amplify their online presence. These networks create a feedback loop: greater visibility leads to more recognition, which further entrenches male dominance in the field. Instead of levelling the playing field, social media risks magnifying existing inequalities.
+
+**Why This Matters**  
+This issue is not just about fairness – it is about the future of science. A diverse and inclusive academic community fosters innovation and progress. When half the population faces systemic barriers to recognition, the entire field suffers. Addressing these disparities is vital not only for gender equity but also for the advancement of knowledge.
+
+The study emphasises that increasing female representation alone is insufficient. Proactive measures are needed to create a truly equitable environment. Online spaces must be made more inclusive, offering support for all scholars to share their work without fear of bias or backlash. Women should be encouraged and empowered to use social media strategically, while systemic biases that limit their recognition and career progression must be tackled directly.
+
+**The Path Forward**  
+Social media has the potential to democratise academia, but this can only happen if we actively work to address its inequalities. Without intervention, the same biases that exist offline will continue to thrive online. By fostering inclusive practices and challenging systemic barriers, we can ensure that all scholars – regardless of gender – have an equal opportunity to contribute, innovate and thrive.
+
+# Exploring How Our Brains Handle Emphasis in Language
+
+A study suggests that although different languages express emphasis differently, the human brain processes this information in a similar manner
+
+Imagine you are having a conversation with a friend about your weekend plans. You might say, “I really want to go hiking,” emphasising the word “really” to show how much you are looking forward to it. This everyday use of emphasis helps convey your feelings and priorities. But have you ever wondered how our brains process this emphasis, or focus, in different languages?
+
+Professor Niels O. SCHILLER, Head of the Department of Linguistics and Translation (LT) at the College of Liberal Arts and Social Sciences (CLASS) at City University of Hong Kong (CityUHK), and Professor Ashley LEWIS, Assistant Professor of LT, have been involved in research that explored how our brains handle emphasis in sentences and whether the processing of focus is universally similar. The study delves into how emphasis marking affects language processing in the Bantu language Makhuwa-Enahara, spoken in northern Mozambique. It found that Makhuwa-Enahara marks focus using verb conjugation instead of changes in tone or rhythm. This creates a common pattern: focus marking increases the importance of the information being emphasised, no matter how it is expressed.
+
+Many languages use stress or intonation to highlight certain words, making them stand out. Researchers wanted to see if our brains react similarly to emphasis, regardless of the language used. They measured brain activity (using EEG) while participants listened to sentences with and without emphasis on specific words. Some words were nonsensical in the context of the sentence (like saying “The bird ate a sun”).
+
+**A Distinct Brain Response**  
+They found that when a word was emphasised, the brain showed a specific pattern (a “more negative N400 response”) compared to when the same word was not emphasised. This indicates that, regardless of the method used to mark focus, it enhances the processing of that information.
+
+This suggests that even though languages express emphasis in different ways, our brains process emphasised information similarly across languages. In Schiller’s study, while the effect of nonsensical words was similar whether or not the word was emphasised, the act of emphasis itself still created a distinct brain response. The study also acknowledges that some limitations, like the participants having a relatively low educational background and their unfamiliarity with experimental research, might have influenced the results.
+
+This study is a nice example of experimental research on under-researched languages in remote areas. There are more than 7,000 languages world-wide – however, most research is done on only a dozen different languages, mostly of Indo-European descent. Nevertheless, languages can differ quite dramatically, and these differences may also imply different underlying neuro-cognitive representations and processing strategies. Therefore, more research is needed on a more varied set of languages, including languages spoken in Asia and Africa, to better understand brain processing of language and communication in general.
+
+  
+
+Publication  
+https://www.pnas.org/doi/10.1073/pnas.2315438121
+
+# CLASS Partners with University of Cambridge to Strengthen Academic Collaboration
+
+The institutions are partnering to study the social and cultural dimensions of digital media
+and emerging technologies
+
+CityUHK’s College of Liberal Arts and Social Sciences (CLASS) has forged a new partnership with the Cambridge Digital Humanities, School of Art and Humanities of the University of Cambridge. Both institutions signed a Memorandum of Understanding (MoU) on 1 November 2024 to strengthen the connection between the Department of Media and Communication (COM) of CLASS and Cambridge Digital Humanities. This partnership aims to explore opportunities for collaboration in education and research.
+
+The MoU was endorsed by Professor Alfred Tat-Kei HO, Dean of CLASS, and witnessed by Professor Freddy BOEY, President of CityUHK and Dame Madeleine ATKINS, President of Lucy Cavendish College, University of Cambridge.
+
+This MoU presents invaluable opportunities for COM students to pursue advanced studies at the University of Cambridge, equipping them with professional knowledge needed for successful careers in the media industry or for further academic development. Additionally, the MoU facilitates academic exchange and research collaboration among COM research students and faculty, allowing them to engage with renowned scholars and enhancing research and development in areas of mutual interest.
+
+Ho remarked that the signing of the MoU represents a significant milestone in the partnership between CityUHK and Cambridge in the fields of social sciences and humanities, laying a solid foundation for future cooperation in education and research. It also reflects the commitment of COM to become a leading academic institution in the Asia-Pacific region and to compete effectively on a global scale.
+
+**Proficiency in Both Media Theory and Technology**  
+Ho further noted that embracing technology is a crucial trend in the communication and media industries. In response, COM has designed two Master’s programmes that focus on the application of new media technologies alongside humanistic thinking, aiming to cultivate professionals proficient in both media theory and technology. This approach aligns with the objectives of the Cambridge Digital Humanities at the University of Cambridge’s School of Arts and Humanities.
+
+Professor Yi-Hui Christine HUANG, Head and Chair Professor of COM, also expressed her enthusiasm about the collaboration: “The partnership brings together our strengths in areas such as media analytics, cultural studies, and digital innovation, allowing COM to join a global network of leading research institutions. Both faculty and students will have the opportunity to engage with Cambridge’s world-class resources.”
+
+Both institutions are committed to examining the social and cultural dimensions of digital media and emerging technologies such as artificial intelligence and machine learning. This will create more collaborative opportunities related to teaching, and media and communication research.
+
+# CityUHK-COP Transformational Leadership Programme: Pioneering Sustainable Change
+
+The programme aims to empower participants with the means to create profound and
+lasting changes within their organisations and communities
+
+The College of Liberal Arts and Social Sciences (CLASS) at City University of Hong Kong (CityUHK) has introduced the CityUHK-COP Transformational Leadership Programme (TLP), an innovative initiative aimed at empowering leaders in the fields of education and business to facilitate sustainable development. This inaugural non-STEM programme ran from September 2024 to February 2025 and equipped participants with the knowledge, skills and networks necessary to promote significant change within their organisations and communities.
+
+A key feature of the programme was the chance for participants to attend the 29th Conference of the Parties (COP29) of the United Nations Framework Convention on Climate Change in Baku, Azerbaijan, on 14-16 November 2024. Guided by Professor Ilex LAM Ka-keung, Professor of Practice in CLASS’s Department of Social and Behavioural Sciences (SS), participants interacted directly with global leaders, policymakers and experts in climate action during the conference.
+
+“The field trip encouraged conversations surrounding global governance, climate finance and collaborative partnerships across sectors, all directed towards enhancing sustainable development,” Lam remarked.
+
+Lam, a leader in various fields including finance and technology for social good, as well as impact investing, also co-leads the Lab for Impact Financing and Transformation at CityUHK with Professor Alfred Tat-Kei HO, Dean of CLASS. He highlighted that the participants attended workshops and sessions at COP29 to enhance their understanding of climate negotiations and build networks with professionals in sustainability and education.
+
+The CityUHK-COP Transformational Leadership Programme provided participants with vital leadership and climate action skills, preparing them to implement sustainable solutions in their areas of influence. Throughout the course, participants delved into essential subjects such as expediting climate action through innovation, investing in green transitions, encouraging collaborative climate initiatives, and advancing sustainable education.
+
+“Through a blend of in-class learning, the COP29 field trip, and a final project, participants cultivated crucial leadership skills and developed actionable strategies for driving local educational change,” Lam added.
+
+As a final project, participants were tasked with creating comprehensive pilot initiatives to launch sustainability-focused educational programmes in Hong Kong schools and strategic plans for expanding these projects over three years.
+
+The programme concluded with a showcase on 22 February at the LINK Sustainability Lab in Wang Tau Hom, where approximately 100 participants, colleagues and supporters came together to listen to TLP students present their insights and project results.
+
+Excitement is growing for COP30, which is expected to offer more chances for collaboration and leadership in sustainability. The CityUHK-COP Transformational Leadership Programme is a guiding light for transformative leadership, empowering participants to create meaningful and enduring change within their organisations and communities.

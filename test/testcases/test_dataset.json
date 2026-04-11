@@ -1,0 +1,182 @@
+[
+  {
+    "document":"Wiki",
+    "question_type":"single_hop_factual",
+    "question":"Who designed the Run Run Shaw Creative Media Centre?",
+    "reference_answer":"Daniel Libeskind cooperating with Leigh and Orange Ltd."
+  },
+  {
+    "document":"Wiki",
+    "question_type":"single_hop_factual",
+    "question":"How many full-time students did the polytechnic welcome when it first opened on 8 October 1984?",
+    "reference_answer":"480 full-time students."
+  },
+  {
+    "document":"Wiki",
+    "question_type":"summarization",
+    "question":"What are the main colleges and schools that make up CityU's academic organisation?",
+    "reference_answer":"CityU has 10 colleges and schools: College of Business, College of Liberal Arts and Social Sciences, College of Engineering, College of Science, Jockey Club College of Veterinary Medicine and Life Sciences, College of Computing, School of Creative Media, School of Energy and Environment, School of Law, and Chow Yei Ching School of Graduate Studies."
+  },
+  {
+    "document":"Wiki",
+    "question_type":"summarization",
+    "question":"What major incidents or controversies has CityU faced?",
+    "reference_answer":"CityU faced several incidents: the shutdown of the MFA in Creative Writing programme in 2015 (attributed by some to censorship), the collapse of the sports hall roof in May 2016 due to thicker roofing material, greenery, and water puddles, a QS ranking dispute in 2017 over allegedly misleading data (later confirmed accurate), a Chinese Communist Party branch meeting held on campus in 2018, a professor's intervention in students' academic autonomy by banning political messages in 2019, and new campus security measures including turnstiles installed in November 2019 following protests."
+  },
+  {
+    "document":"Wiki",
+    "question_type":"unanswerable",
+    "question":"What is the total annual budget of City University of Hong Kong?",
+    "reference_answer":"The document does not contain this information."
+  },
+  {
+    "document":"Wiki",
+    "question_type":"unanswerable",
+    "question":"How many full-time faculty members are currently employed at City University of Hong Kong?",
+    "reference_answer":"The document does not contain this information."
+  },
+  {
+    "document":"Wiki",
+    "question_type":"needle_in_haystack",
+    "question":"How many suggestions were made by members of the public for the name of the City Polytechnic of Hong Kong?",
+    "reference_answer":"Nearly 300 suggestions were made by members of the public."
+  },
+  {
+    "document":"Wiki",
+    "question_type":"needle_in_haystack",
+    "question":"How many computers did the first phase of the permanent campus boast when it was officially opened in January 1990?",
+    "reference_answer":"1,500 computers."
+  },
+  {
+    "document":"Wiki",
+    "question_type":"multi_task",
+    "question":"Please answer the following three questions:\n1. Who designed the Run Run Shaw Creative Media Centre?\n2. In what year was it completed?\n3. Which departments and schools are housed in the building?",
+    "reference_answer":"1. The Run Run Shaw Creative Media Centre was designed by Daniel Libeskind cooperating with Leigh and Orange Ltd.\n2. It was completed in 2011.\n3. It houses the university's School of Creative Media, the Centre for Applied Computing and Interactive Media, and the computer science, media and communication, and English departments."
+  },
+  {
+    "document":"Wiki",
+    "question_type":"multi_task",
+    "question":"Please answer the following four questions:\n1. When was City University of Hong Kong originally founded, and under what name?\n2. Who is the current President of the university?\n3. How large is the main campus?\n4. What is the university's QS World University Ranking for 2026?",
+    "reference_answer":"1. It was originally founded on 1 January 1984 as the City Polytechnic of Hong Kong.\n2. The current President is Freddy Boey.\n3. The main campus covers around 15.6 hectares (39 acres).\n4. CityUHK was ranked #63 worldwide in the QS World University Rankings 2026."
+  },
+  {
+    "document":"Curriculum",
+    "question_type":"single_hop_factual",
+    "question":"How many credit units are required for graduation in the Bachelor of Science in Computer Science program?",
+    "reference_answer":"121 credit units"
+  },
+  {
+    "document":"Curriculum",
+    "question_type":"single_hop_factual",
+    "question":"What is the maximum period of study allowed for the Computer Science degree?",
+    "reference_answer":"8 years"
+  },
+  {
+    "document":"Curriculum",
+    "question_type":"summarization",
+    "question":"What are the five elective streams available to Computer Science students?",
+    "reference_answer":"The five elective streams are: Artificial Intelligence Stream, Data Science Stream, Cybersecurity Stream, Multimedia Computing Stream, and Software Engineering and Project Management Stream."
+  },
+  {
+    "document":"Curriculum",
+    "question_type":"summarization",
+    "question":"What are the major components and their credit unit allocations that make up the 121 credit units required for graduation in the BSc Computer Science programme?",
+    "reference_answer":"The programme consists of GE Requirements (31 credit units), College\/School Requirements (8 credit units), and Major Requirements (82 credit units), which includes Core Courses (64 credit units) and Electives (minimum 18 credit units)."
+  },
+  {
+    "document":"Curriculum",
+    "question_type":"unanswerable",
+    "question":"What is the minimum GPA required to graduate with the Bachelor of Science in Computer Science degree?",
+    "reference_answer":"The document does not contain this information."
+  },
+  {
+    "document":"Curriculum",
+    "question_type":"unanswerable",
+    "question":"Who is the current head of the Department of Computer Science that offers this program?",
+    "reference_answer":"The document does not contain this information."
+  },
+  {
+    "document":"Curriculum",
+    "question_type":"needle_in_haystack",
+    "question":"How many credit units is the CS2613 Seminars on Contemporary Technology course worth?",
+    "reference_answer":"2 credit units."
+  },
+  {
+    "document":"Curriculum",
+    "question_type":"needle_in_haystack",
+    "question":"Which course is listed as 'Exclusive with IS4500' in the Software Engineering and Project Management Stream?",
+    "reference_answer":"CS3356 Managing Software Projects."
+  },
+  {
+    "document":"Curriculum",
+    "question_type":"multi_task",
+    "question":"Please answer the following three questions:\n1. What is the maximum period of study for the Computer Science degree?\n2. How many credit units are required for graduation?\n3. How many credit units are allocated to GE Requirements?",
+    "reference_answer":"1. The maximum period of study is 8 years.\n2. 121 credit units are required for graduation.\n3. GE Requirements account for 31 credit units."
+  },
+  {
+    "document":"Curriculum",
+    "question_type":"multi_task",
+    "question":"Please answer the following four questions:\n1. What are the two College\/School requirement courses and their credit units?\n2. How many credit units does the CS3505 IT Professional Internship course carry?\n3. How many elective streams are available for students to choose from?\n4. What is the minimum number of elective credit units required?",
+    "reference_answer":"1. The two College\/School requirement courses are MA1503 Linear Algebra with Applications (4 credit units) and MA1508 Calculus (4 credit units).\n2. CS3505 IT Professional Internship carries 9 credit units.\n3. There are five streams: Artificial Intelligence, Data Science, Cybersecurity, Multimedia Computing, and Software Engineering and Project Management.\n4. A minimum of 18 elective credit units are required."
+  },
+  {
+    "document":"Magazine",
+    "question_type":"single_hop_factual",
+    "question":"What is the estimated annual cost of scams to the global economy?",
+    "reference_answer":"An estimated 1 per cent of GDP each year."
+  },
+  {
+    "document":"Magazine",
+    "question_type":"single_hop_factual",
+    "question":"Over the past decade, how much did the proportion of female first authors rise to in communication studies?",
+    "reference_answer":"The proportion of female first authors rose from 45.6 per cent to 58 per cent."
+  },
+  {
+    "document":"Magazine",
+    "question_type":"summarization",
+    "question":"What are the main strategies discussed for combating crypto crime and digital scams?",
+    "reference_answer":"The main strategies include using AI and neural networks to identify suspicious transaction patterns, blockchain analytics platforms to track and cluster wallet addresses, comprehensive public education programmes on digital safety, international cooperation with unified investigation frameworks and standardised procedures, regulation through Central Bank Digital Currencies (CBDCs), open source collaboration for sharing datasets and tools, and using large language models to analyse and disrupt telecom scams with daily intelligence reports sent to police and financial institutions."
+  },
+  {
+    "document":"Magazine",
+    "question_type":"summarization",
+    "question":"What are the key benefits and challenges of open source technology as described by Professor Yanto Chandra?",
+    "reference_answer":"The key benefits include making innovations accessible to everybody rather than keeping economic benefits to the inventor, offering game-changing opportunities for social enterprises and NGOs by providing new ideas and speeding up information synthesis, and next-generation AI models like Llama 3 that can take action on behalf of users. The challenges include the need for expertise to work with and fine-tune these models, financial sustainability concerns when giving innovations away for free, and the risk that technology can be a 'boomerang for humanity,' requiring governance and guardrails."
+  },
+  {
+    "document":"Magazine",
+    "question_type":"unanswerable",
+    "question":"How much funding did Professor Xiaofan Liu's 'Pioneering Technology, Linking the World' project receive from China Unicom?",
+    "reference_answer":"The document does not contain this information."
+  },
+  {
+    "document":"Magazine",
+    "question_type":"unanswerable",
+    "question":"What specific percentage of cryptocurrency-related crimes have been successfully prosecuted using blockchain analytics tools like those developed by Elliptic?",
+    "reference_answer":"The document does not contain this information."
+  },
+  {
+    "document":"Magazine",
+    "question_type":"needle_in_haystack",
+    "question":"What is the name of the college at the University of Cambridge whose president witnessed the signing of the MoU with CityUHK?",
+    "reference_answer":"Lucy Cavendish College, whose president Dame Madeleine Atkins witnessed the signing."
+  },
+  {
+    "document":"Magazine",
+    "question_type":"needle_in_haystack",
+    "question":"Where was the showcase event held on 22 February to conclude the CityUHK-COP Transformational Leadership Programme?",
+    "reference_answer":"The LINK Sustainability Lab in Wang Tau Hom."
+  },
+  {
+    "document":"Magazine",
+    "question_type":"multi_task",
+    "question":"Please answer the following three questions:\n1. What percentage of GDP do scams cost the global economy each year, according to Professor Xiaofan Liu?\n2. Which company sponsors Professor Liu's project on disrupting telecom scams?\n3. How long does Professor Liu plan to focus on this topic?",
+    "reference_answer":"1. Scams cost the global economy an estimated 1 per cent of GDP each year.\n2. The project is a collaboration with and sponsored by China Unicom.\n3. Professor Liu says this topic will be his focus for at least the next five years."
+  },
+  {
+    "document":"Magazine",
+    "question_type":"multi_task",
+    "question":"Please answer the following four questions:\n1. What was the proportion of female first authors in communication studies at the start and end of the decade studied by Professor Xiaohui Wang's team?\n2. What data sources did the research team use?\n3. What is the 'Matilda effect'?\n4. What specific social media platform's engagement metrics were found to favour men?",
+    "reference_answer":"1. The proportion of female first authors rose from 45.6 per cent to 58 per cent between 2012 and 2022.\n2. The research team used data from OpenAlex, Altmetric and Twitter.\n3. The Matilda effect is where female scholars' contributions are undervalued.\n4. Twitter engagement metrics consistently favoured men."
+  }
+]
