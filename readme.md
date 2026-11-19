@@ -1,7 +1,7 @@
 # CityU Bachelor Degree Assistant 🎓
 
 A Streamlit-based RAG chatbot using LlamaIndex and local Hugging Face / Ollama backends to answer questions over a collection of academic documents.
-
+<img width="1838" height="891" alt="Screenshot 2026-11-19 092344" src="https://github.com/user-attachments/assets/e25cfe3c-18e8-4a0b-a1a2-e6b5ca15da37" />
 ---
 
 ## 🏗️ Technical Highlights
